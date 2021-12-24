@@ -1,3 +1,15 @@
 CTRL + . remover todos os  imports não usados
 
 CTRL + ALT + SHIFT + A split nos atrib da tag
+
+yup @hookform/resolvers
+
+bibliotecas formulários : 
+
+-Formik
+-react hook form
+-unform - da rocketseat
+
+
+Validações de campos : 
+-Yup
