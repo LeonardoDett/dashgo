@@ -4,12 +4,22 @@ CTRL + ALT + SHIFT + A split nos atrib da tag
 
 yup @hookform/resolvers
 
+stale while revalidate
+
 bibliotecas formulários : 
 
--Formik
--react hook form
+-Formik 
+-react hook form  -/- usado
 -unform - da rocketseat
 
 
 Validações de campos : 
--Yup
+-Yup -/- usado
+
+Cache e fetch local:
+-react query  -/- usado ( baixar ReactQueryDevtools é muito bom)
+-Swr
+
+Api Fake: SEMPRE COLOCAR -D PRA SER DEPENDENCIA DE DESENVOLVIMENTO
+-MirageJs
+-Faker ( criação de dados automáticos)

@@ -69,7 +69,7 @@ export default function CreateUser() {
                 type="password"
                 label="Senha"
                 {...register('password')}
-                error={formState.errors.password}
+                error={formState.errors.password} 
               />
               <Input
                 name="password_confirmation"
