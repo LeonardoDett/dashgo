@@ -19,7 +19,6 @@ function MyApp({ Component, pageProps }: AppProps) {
           <Component {...pageProps} />
         </SideBarDrawerProvider>
       </ChakraProvider>
-
       <ReactQueryDevtools />
     </QueryClientProvider>
   )
